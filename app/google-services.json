@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180842179338",
+    "project_id": "fir-kelasa-350e8",
+    "storage_bucket": "fir-kelasa-350e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180842179338:android:b179830725384fb3b8e8f3",
+        "android_client_info": {
+          "package_name": "com.example.firebasekelasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180842179338-ketq0f40q9cml4nbs9p92c897cvuvgma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFzjkj7rWp4QR90FOD6i-DsC3XK6t1Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180842179338-ketq0f40q9cml4nbs9p92c897cvuvgma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
